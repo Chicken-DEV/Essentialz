@@ -1,0 +1,11 @@
+name: Essentialz
+version: 1.0
+author: TheSleepyOwl
+description: Adds some essentials Commands and function to the game.
+main: net.thesleepyowl.essentialz.Essentialz
+
+commands:
+  fly:
+    description: Toggle wether a user can fly or nor
+    permission: essentialz.fly
+    usage: Use /fly
